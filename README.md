@@ -6,3 +6,6 @@
  <a href="#licenc-a">Licença</a> •
  <a href="#autor">Autor</a>
 </p>
+<h4 align="center"> 
+	Em desenvolvimento...  🚧
+</h4>
