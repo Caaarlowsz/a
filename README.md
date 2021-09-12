@@ -9,3 +9,9 @@
 <h4 align="center"> 
 	Em desenvolvimento...  🚧
 </h4>
+
+# Compilar
+### Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Java](https://java.com) e [Git](https://git-scm.com).
+Além disto é bom ter um editor para trabalhar com o código como [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) ou [Eclipse IDE](https://www.eclipse.org).
